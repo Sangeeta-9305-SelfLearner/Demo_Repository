@@ -1,2 +1,3 @@
-# Demo_Repository
+Demo_Repository
 This is my first Git Repository.
+Author - Sangeeta yadav
